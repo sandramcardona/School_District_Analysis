@@ -30,14 +30,14 @@ Below are the results for the initial ananlysis for the school district summary.
 ### School District Analysis - Excluding data
 Below are the results for the second ananlysis performed for the school district summary after the grades for Thomas High School 9th Graders were removed from the data. This is a high-level snapshot of the district's key metrics:
 
-Total number of students 38,709
-Total number of schools 15
-Total budget $24,649,428
-Average math score 79.0 (78.93053295)
-Average reading score 81.9 (81.85579581)
-Percentage of students who passed math 75%
-Percentage of students who passed reading 86%
-Overall passing percentage 65%
+- Total number of students 38,709
+- Total number of schools 15
+- Total budget $24,649,428
+- Average math score 79.0 (78.93053295)
+- Average reading score 81.9 (81.85579581)
+- Percentage of students who passed math 75%
+- Percentage of students who passed reading 86%
+- Overall passing percentage 65%
 
 ![alt text](https://github.com/sandramcardona/School_District_Analysis/blob/main/Resources/Challenge_District_Summary.png )
 
