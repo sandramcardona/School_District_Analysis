@@ -45,7 +45,7 @@ Overall passing percentage 65%
 Below is a more detailed analysis performed and the explanation of how they differ with the initial analysis of the data. Both math and reading scores were replaced with "NaN", which represents a "Not-a-Number" value. As a result of this change, 461 student grades were removed for math and reading respectively. Although it may seem a large number, compared to the total amount of students, the 461 only represents 1.2% of the total grades that were analyzed. 
 
 ### District Summary 
-The District summary was not visibly affected due to the fact that when rounding the values up the changes were so minimally that they were not reflected in the formatted data. 
+The District summary was minimally affected due to the fact that when rounding the values up the changes were so minimally that they were not reflected in the formatted data. 
 - District Summary Analysis Complete Data
 ![alt text]( )
 
@@ -53,7 +53,8 @@ The District summary was not visibly affected due to the fact that when rounding
 ![alt text]( )
 
 ### School Summary
-The School Summary was affected by changing the grades for Thomas High School for math and reading. This ended up improving Thomas High School grades by 25%-30% when the 9th graders were removed compared to their math and reading scores in the initial analysis. Below are the images for both of the results:
+The School Summary was affected by changing the grades for Thomas High School for math and reading. This ended up improving Thomas High School grades by 25%-30% when the 9th graders were removed compared to their math and reading scores in the initial analysis. 
+Thomas High School now has some of the highest passing scores compared to other schools. Below are the images for both of the results:
 
 - School Summary Analysis Complete Data
 ![alt text]( )
@@ -61,15 +62,45 @@ The School Summary was affected by changing the grades for Thomas High School fo
 - School Summary Analysis Excluded Data
 ![alt text]( )
 
-### Math and reading scores by grade
+### Math and reading scores by Grade
+The Math and Reading scores by grade were not affected. This is due to the fact that this number is calculated as an average of all the values within the school. 
+
+### Math and Reading Passing Percentages
+The passing percentages were  affected by removing the 9th graders grades for Thomas High School for math and reading. This ended up improving Thomas High School passing percentages from 25%-30%. This improved the performance of the high school by close to 30%. Below are the images for a better understanding of the changes that occurred:
+
+- Math and Reading Passing Percentages Complete Data
+![alt text]( )
+
+- Math and Reading Passing PercentagesExcluded Data
+![alt text]( )
 
 ### 5 Top Schools and 5 Bottom Schools
+The biggest changed observed after removing the 9th graders grades for Thomas High School was that it became the 2nd Top school with an overall passing score of 90.6% compared to being in the 7th place with an overall passing score of 65.1%. Below are the images for both analysis for the 5 top Schools
+
+- 5 Top Schools  Complete Data
+![alt text]( )
+
+- 5 Top Schools Excluded Data
+![alt text]( )
+
+
 ### Scores by school spending
+There was no change observed for this metric because the number of students did not change, only the grades for math and reading were removed for the 9th graders at Thomas High School. Thomas High school remained in the $630-644 ranges per student in both analysis.
+
 ### Scores by school size
+There was no change observed for this metric because the number of students did not change, only the grades for math and reading were removed for the 9th graders at Thomas High School. Thomas High school remained a Medium size School in both analysis.
+
 ### Scores by school type
 
+The scores by school type were also affected by removing the 9th graders grades for Thomas High School for math and reading. This ended up improving the charter school passing percentages from by 3-4 points higher compared to the intial review. This is du to Thomas High School being a Charter school.  Below are the images that show the initial numbers and the ones after.
 
-Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+- Scores by school type Complete Data
+![alt text]( )
+
+- Scores by school type Excluded Data
+![alt text]( )
+
+After finishing the review, it was concluded that by removing the 9th graders grades for Thomas High School for math and reading made a significance improvement. The Summary of School shows that the school now ranks some of the highest passing scores. For the passing percentages for math, reading and overall passing scores it shows a 25-30% increase compared to the original scores. It now ranks 2nd instead of 7th among all the other schools based on these scores. Lastly, it improved the Charter schools overall passing percentges compared to the District schools. 
 
 
 
