@@ -77,11 +77,11 @@ The passing percentages were  affected by removing the 9th graders grades for Th
 ### 5 Top Schools and 5 Bottom Schools
 The biggest changed observed after removing the 9th graders grades for Thomas High School was that it became the 2nd Top school with an overall passing score of 90.6% compared to being in the 7th place with an overall passing score of 65.1%. Below are the images for both analysis for the 5 top Schools
 
-- 5 Top Schools  Complete Data
-![alt text]( )
+- Top Schools  Complete Data - Thomas High School shows as 7th place
+![alt text]( https://github.com/sandramcardona/School_District_Analysis/blob/main/Resources/Top_5_Schools_THS_7th_complete_Data.png)
 
-- 5 Top Schools Excluded Data
-![alt text]( )
+- Top Schools Excluded Data - Thomas High School shows as 2nd place
+![alt text]( https://github.com/sandramcardona/School_District_Analysis/blob/main/Resources/Challenge_Top_5_Schools.png)
 
 
 ### Scores by school spending
@@ -95,10 +95,10 @@ There was no change observed for this metric because the number of students did 
 The scores by school type were also affected by removing the 9th graders grades for Thomas High School for math and reading. This ended up improving the charter school passing percentages from by 3-4 points higher compared to the intial review. This is du to Thomas High School being a Charter school.  Below are the images that show the initial numbers and the ones after.
 
 - Scores by school type Complete Data
-![alt text]( )
+![alt text](https://github.com/sandramcardona/School_District_Analysis/blob/main/Resources/School_Type_Summary_Complete_Data.png )
 
 - Scores by school type Excluded Data
-![alt text]( )
+![alt text](https://github.com/sandramcardona/School_District_Analysis/blob/main/Resources/School_Type_Summary_Removed_Data.png )
 
 After finishing the review, it was concluded that by removing the 9th graders grades for Thomas High School for math and reading made a significance improvement. The Summary of School shows that the school now ranks some of the highest passing scores. For the passing percentages for math, reading and overall passing scores it shows a 25-30% increase compared to the original scores. It now ranks 2nd instead of 7th among all the other schools based on these scores. Lastly, it improved the Charter schools overall passing percentges compared to the District schools. 
 
